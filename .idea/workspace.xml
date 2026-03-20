@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09572add-55ca-47ba-a17b-75ac84a1796c" name="Changes" comment="added mae3240 project" />
+    <list default="true" id="09572add-55ca-47ba-a17b-75ac84a1796c" name="Changes" comment="added mae3240 project">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +15,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MagnetMan103"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MagnetMan103&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Cornell-MAE-UG/sp26-portfolio-MagnetMan103",
-    "accountId": "452001ec-3a71-43d4-be5d-8639676e2434"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Cornell-MAE-UG/sp26-portfolio-MagnetMan103&quot;,
+    &quot;accountId&quot;: &quot;452001ec-3a71-43d4-be5d-8639676e2434&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3BDOB87sxtGkFDD3YtXtJamkM8b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/alanmunschy/WebstormProjects/portfolio-fa25-fa25-portfolio-portolios",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +70,7 @@
       <updated>1697548192947</updated>
       <workItem from="1720549034177" duration="47000" />
       <workItem from="1774020036748" duration="2104000" />
+      <workItem from="1774025748368" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="added mae3240 project">
       <option name="closed" value="true" />
