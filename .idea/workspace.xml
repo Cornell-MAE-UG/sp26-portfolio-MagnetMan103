@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09572add-55ca-47ba-a17b-75ac84a1796c" name="Changes" comment="added mae3240 project">
+    <list default="true" id="09572add-55ca-47ba-a17b-75ac84a1796c" name="Changes" comment="added mae3780 project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +72,7 @@
       <workItem from="1774020036748" duration="2104000" />
       <workItem from="1774025748368" duration="1249000" />
       <workItem from="1774753411763" duration="2000" />
+      <workItem from="1778637484109" duration="958000" />
     </task>
     <task id="LOCAL-00001" summary="added mae3240 project">
       <option name="closed" value="true" />
@@ -81,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774023716426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added mae3780 project">
+      <option name="closed" value="true" />
+      <created>1778637544131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778637544131</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added mae3240 project" />
-    <option name="LAST_COMMIT_MESSAGE" value="added mae3240 project" />
+    <MESSAGE value="added mae3780 project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mae3780 project" />
   </component>
 </project>
